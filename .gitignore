@@ -1,0 +1,6 @@
+.DS_Store
+.data/
+.tmp/
+log/
+db_backup/
+models/config/application.yml

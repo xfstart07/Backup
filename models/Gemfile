@@ -1,0 +1,13 @@
+source 'https://gems.ruby-china.org/'
+
+ruby '2.3.0'
+
+# Backup
+gem 'backup'
+gem 'backup2qiniu'
+
+# application config
+gem 'figaro'
+
+# schedule task
+gem 'whenever', '0.9.4', :require => false
